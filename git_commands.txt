@@ -4,6 +4,6 @@ git status : to check status
 git init : to make repository as a git repository
 git diff filename : tells us the modification we made and the previous version
 git add *
-git commit -m ""
+git commit -m "" : to commit the file
 git log
 git diff filename
