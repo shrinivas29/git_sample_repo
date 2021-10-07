@@ -1,0 +1,10 @@
+git --version or git version: to check git version
+e: and enter : to change directory from c to e drive
+git status : to check status
+git init : to make repository as a git repository
+git diff filename : tells us the modification we made and the previous version
+git add *
+git commit -m "" : to commit the file
+git log
+git diff filename
+git clone https://github.com/shrinivas29/git_sample_repo.git
