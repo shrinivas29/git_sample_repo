@@ -1,4 +1,9 @@
-git version: git --version or git version
-to change directory from c to e drive: e: and enter
-to check status: git status
-to make repository as a git repository: git init
+git --version or git version: to check git version
+e: and enter : to change directory from c to e drive
+git status : to check status
+git init : to make repository as a git repository
+git diff filename : tells us the modification we made and the previous version
+git add *
+git commit -m ""
+git log
+git diff filename
